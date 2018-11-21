@@ -1,2 +1,1 @@
-# BASH_Display
-EECS 2031 - Lab 08
+# 4-bit-display-using-Bash
