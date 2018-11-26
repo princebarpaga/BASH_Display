@@ -1,5 +1,5 @@
 #!/bin/bash
-# 0 RED, 1 BLUE, 2 YELLOW, 3 GREEN
+# 0 GREEN, 1 YELLOW, 2 BLUE, 3 RED
 
 for value in {0..3}
 do
